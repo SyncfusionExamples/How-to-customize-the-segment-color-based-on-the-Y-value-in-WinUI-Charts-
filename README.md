@@ -37,7 +37,7 @@ foreach (var item in Data)
 
 ## Output:
 
-![Customized WinUI chart column series segment color based on the Y values]()
+![Customized WinUI chart column series segment color based on the Y values](https://user-images.githubusercontent.com/53489303/193756740-cd6db33b-6100-4dd3-8891-71c53bec5eb6.png)
 
 KB article - [How to customize the segment color based on the Y value in WinUI Charts?]()
 
