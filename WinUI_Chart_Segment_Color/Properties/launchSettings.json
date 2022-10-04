@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI_Chart_Segment_Color (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI_Chart_Segment_Color (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
