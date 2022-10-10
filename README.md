@@ -1,3 +1,5 @@
+# How to customize the segment color based on the Y value in WinUI Charts(SfCartesianChart)
+
 This article explains how to set the different colors for the chart column segments based on its Y value in the [WinUI charts](https://www.syncfusion.com/winui-controls/charts).
 
 WinUI charts allow you to customize the appearance of the series segments color by adding your own brushes in the preferred order and applying for the series [PaletteBrushes](https://help.syncfusion.com/cr/winui/Syncfusion.UI.Xaml.Charts.ChartSeriesBase.html#Syncfusion_UI_Xaml_Charts_ChartSeriesBase_PaletteBrushes) property.
