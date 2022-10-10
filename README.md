@@ -1,4 +1,4 @@
-# How to customize the segment color based on the Y value in WinUI Charts(SfCartesianChart)
+# How to customize the segment color based on the Y value in WinUI Chart (SfCartesianChart)
 
 This article explains how to set the different colors for the chart column segments based on its Y value in the [WinUI charts](https://www.syncfusion.com/winui-controls/charts).
 
