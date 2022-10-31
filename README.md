@@ -41,7 +41,7 @@ foreach (var item in Data)
 
 ![Customized WinUI chart column series segment color based on the Y values](https://user-images.githubusercontent.com/53489303/193756740-cd6db33b-6100-4dd3-8891-71c53bec5eb6.png)
 
-KB article - [How to customize the segment color based on the Y value in WinUI Charts?]()
+KB article - [How to customize the segment color based on the Y value in WinUI Chart (SfCartesianChart)?](https://www.syncfusion.com/kb/13660/how-to-customize-the-segment-color-based-on-the-y-value-in-winui-chart-sfcartesianchart)
 
 ## See also
 
