@@ -6,6 +6,8 @@ WinUI charts allow you to customize the appearance of the series segments color 
 
 Consider the use-case to apply different colors for the column segments based on some ranges, i.e., set CadetBlue color for the segment’s Y value less than 20, set Gray color for the segment’s Y value between 20 and 40, and set Orange color for the segment’s value greater than 40. It has been achieved by setting the series [PaletteBrushes](https://help.syncfusion.com/cr/winui/Syncfusion.UI.Xaml.Charts.ChartSeriesBase.html#Syncfusion_UI_Xaml_Charts_ChartSeriesBase_PaletteBrushes) property with its own Brush collection as in the below code example.
 
+**XAML**
+
 ```
 <chart:ColumnSeries ItemsSource="{Binding Data}"
                     XBindingPath="XValue" YBindingPath="YValue"
@@ -13,6 +15,8 @@ Consider the use-case to apply different colors for the column segments based on
                     PaletteBrushes="{Binding CustomBrushes}">
  </chart:ColumnSeries>
 ```
+
+**C#**
 
 ```
 public ObservableCollection<Brush> CustomBrushes { get; set; }
